@@ -10,7 +10,7 @@ Built around the current IB Biology specification.
 
 ---
 
-<!-- SCREENSHOT 1: HOME DASHBOARD -->
+![IB Biology Mastery personalised dashboard](dashboard.png)
 
 ## The Problem
 
@@ -39,7 +39,7 @@ rather than simply giving students another library of revision material.
 
 ---
 
-<!-- SCREENSHOT 2: SYLLABUS VIEW -->
+![IB Biology Mastery syllabus and personalised study interface](syllabus.png)
 
 ## Structured Around the IB Biology Syllabus
 
@@ -51,7 +51,7 @@ This syllabus structure also forms the basis of the mastery system: performance 
 
 ---
 
-<!-- SCREENSHOT 3: ANSWERED QUESTION + MARK SCHEME -->
+![IB Biology Mastery exam-style question with instant feedback and mark scheme](practice-feedback.png)
 
 ## Practice-First Learning
 
@@ -75,7 +75,7 @@ The objective is to build a large practice bank while maintaining genuine exam r
 
 ---
 
-<!-- SCREENSHOT 4: PROGRESS / MASTERY VIEW -->
+![IB Biology Mastery progress and mastery tracking](progress.png)
 
 ## From Performance to Mastery
 
